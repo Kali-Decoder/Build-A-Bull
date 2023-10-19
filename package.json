@@ -1,0 +1,23 @@
+{
+  "name": "build-a-bull",
+  "version": "1.0.0",
+  "description": "Algorand \"Build-A-Bull\" Hackathon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kali-Decoder/Build-A-Bull.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kali-Decoder/Build-A-Bull/issues"
+  },
+  "homepage": "https://github.com/Kali-Decoder/Build-A-Bull#readme",
+  "dependencies": {
+    "algosdk": "^2.6.0"
+  }
+}
