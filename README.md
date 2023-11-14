@@ -43,7 +43,7 @@ Tokenizing the whole process of rewards and decision-making, our tokens, powered
 <br>
 
 # Tracks We Covered:
-## CONSUMER
+## CONSUMER TRACK && DEFI TRACK
 - Transform the user experience through the development of decentralized applications (dApps) for consumers, real-world assets (RWAs), and cutting-edge NFT utility.
 
 - Revolutionize e-commerce by tokenizing the entire rewards and decision-making process through smart contracts, fundamentally altering the way online transactions occur.
@@ -51,6 +51,8 @@ Tokenizing the whole process of rewards and decision-making, our tokens, powered
 - Provide customers with Brand Tokens, Loyalty Tokens, and exclusive perks to establish robust and enduring connections with businesses, creating a more personalized and enjoyable online shopping experience.
 
 - Simplify user interaction with the platform by offering unique benefits, time-sensitive rewards, referral bonuses, and scalable solutions to accommodate a large user base, all facilitated by our innovative NFT Gating Authentication system.
+
+
 
 # Tech Stack:
 * TypeScript
