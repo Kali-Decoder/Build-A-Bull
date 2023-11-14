@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/Kali-Decoder/Build-A-Bull#readme",
   "dependencies": {
-    "algosdk": "^2.6.0"
+    "algosdk": "^2.6.0",
+    "dotenv": "^16.3.1"
   }
 }
